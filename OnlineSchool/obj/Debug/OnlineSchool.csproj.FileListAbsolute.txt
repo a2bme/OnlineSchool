@@ -1,0 +1,12 @@
+C:\Users\a2bme\source\repos\OnlineSchool\bin\Debug\OnlineSchool.exe.config
+C:\Users\a2bme\source\repos\OnlineSchool\bin\Debug\OnlineSchool.exe
+C:\Users\a2bme\source\repos\OnlineSchool\bin\Debug\OnlineSchool.pdb
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.csproj.AssemblyReference.cache
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.Properties.Resources.resources
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.csproj.GenerateResource.cache
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.csproj.CoreCompileInputs.cache
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.exe
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.pdb
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.LogInSignUpPage.resources
+C:\Users\a2bme\source\repos\OnlineSchool\obj\Debug\OnlineSchool.Main.resources
